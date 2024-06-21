@@ -1,0 +1,5 @@
+__pycache__
+.history/
+model_checkpoint/*
+model_training/*
+requirement.txt
