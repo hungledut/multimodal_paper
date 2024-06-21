@@ -6,12 +6,12 @@ Department of Information Technology, The University of Danang - University of S
 
 ## Requirements ⚡️
 
-~~
+~~~
 conda env create -f environment.yaml
 conda activate multimodal
-~~
+~~~
 
-## Run App.py 🌗
+## Run App.py ☀️
 
 ~~~
 python App.py
