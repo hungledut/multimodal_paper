@@ -13,13 +13,13 @@ conda activate multimodal
 
 ## Run App.py 🌗
 
-~~
+~~~
 python App.py
-~~
+~~~
 
 ## Run myapp 🌗
 
-~~
+~~~
 cd myapp
 npm run dev
-~~
+~~~
