@@ -1,9 +1,5 @@
 # Multimodal paper
 
-**Paper:** Enhanced Attention-based Multimodal Deep Learning for Product Categorization on E-commerce Platform <br>
-**Author**: Hung Le Viet, Binh Phan, Nhat Phan Minh, Hieu Nguyen Van <br>
-Department of Information Technology, The University of Danang - University of Science and Technology, Danang, Vietnam 
-
 ## Requirements ⚡️
 
 ~~~
