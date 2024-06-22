@@ -1,5 +1,13 @@
 # Multimodal paper
 
+## Create checkpoint folder
+
+Make directory to store the model's checkpoints 
+~~~
+mkdir model_checkpoint\checkpoint\version_1
+~~~
+Then putting the model's checkpoints into the folder
+
 ## Requirements ⚡️
 
 ~~~
