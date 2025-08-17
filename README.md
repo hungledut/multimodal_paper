@@ -27,3 +27,15 @@ python App.py
 cd myapp
 npm run dev
 ~~~
+
+## Paper citation
+~~~
+@inproceedings{hung2024enhanced,
+  title={Enhanced attention-based multimodal deep learning for product categorization on e-commerce platform},
+  author={Hung, Le Viet and Binh, Phan and Minh Nhat, Phan and Van Hieu, Nguyen},
+  booktitle={Conference on Information Technology and its Applications},
+  pages={87--98},
+  year={2024},
+  organization={Springer}
+}
+~~~
